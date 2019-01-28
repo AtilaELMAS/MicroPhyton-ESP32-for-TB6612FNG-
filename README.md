@@ -1,4 +1,4 @@
-# ATILA-ELMAS
+# ESP32 TB6612 MicroPhyton
 Microphyton for ESP32 for TB6612FNG Motor Drive
 TB6612FNG Motor Drive by Sparkfun is for two motors. Well documented by Spakfun in detail.
 https://www.sparkfun.com/products/14451
